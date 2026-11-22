@@ -1,0 +1,8 @@
+{
+  "lightningsound": {
+    "category": "hostile",
+    "sounds": [
+      "mwaw:lightningsound"
+    ]
+  }
+}

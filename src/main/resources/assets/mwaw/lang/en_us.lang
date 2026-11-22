@@ -1,0 +1,54 @@
+# Elemental Witch Mod port - English names (written for the port)
+itemGroup.tabMoWitchAndWizard=Elemental Witch Mod
+Paralyze=Paralyze
+
+item.fireshard.name=Fire Shard
+item.lightningshard.name=Lightning Shard
+item.airshard.name=Air Shard
+item.earthshard.name=Earth Shard
+item.firestaff.name=Fire Staff
+item.airstaff.name=Air Staff
+item.earthstaff.name=Earth Staff
+item.lightningstaff.name=Lightning Staff
+item.airegg.name=Air Egg
+item.fireegg.name=Fire Egg
+item.lightningegg.name=Lightning Egg
+item.earthegg.name=Earth Egg
+item.MWAWegg.name=Empty Elemental Egg
+item.nothing.name=Nothing
+item.lightning.name=Lightning Ball
+
+entity.mwaw.firewitch.name=Fire Witch
+entity.mwaw.firemeteorite.name=Fire Meteorite
+entity.mwaw.firebat.name=Fire Bat
+entity.mwaw.firepet.name=Fire Dragon
+entity.mwaw.fireegg.name=Fire Egg
+entity.mwaw.lightningwitch.name=Lightning Witch
+entity.mwaw.lightninggolem.name=Lightning Golem
+entity.mwaw.lightningbolt.name=Lightning Bolt
+entity.mwaw.lightningball.name=Lightning Ball
+entity.mwaw.lightningpet.name=Lightning Beast
+entity.mwaw.lightningegg.name=Lightning Egg
+entity.mwaw.airwitch.name=Air Witch
+entity.mwaw.airclone.name=Air Witch Clone
+entity.mwaw.tornado.name=Tornado
+entity.mwaw.minitornado.name=Mini Tornado
+entity.mwaw.windball.name=Wind Ball
+entity.mwaw.mwawwindball.name=Wind Ball
+entity.mwaw.mwawfireball.name=Fire Ball
+entity.mwaw.earthwitch.name=Earth Witch
+entity.mwaw.earthminion.name=Earth Golem
+entity.mwaw.earthgoodminion.name=Friendly Earth Golem
+entity.mwaw.earthpet.name=Earth Golem Pet
+entity.mwaw.earthegg.name=Earth Egg
+entity.mwaw.halloweenwitch.name=Halloween Witch
+entity.mwaw.windphoenix.name=Air Phoenix
+entity.mwaw.halloweenegg.name=Halloween Egg
+entity.mwaw.airegg.name=Air Egg
+entity.mwaw.halloweenpet.name=Halloween Pumpkin
+entity.mwaw.halloweenpetevolved.name=Halloween Pumpking
+entity.mwaw.pumpkinairstrike.name=Explosive Pumpkin
+entity.mwaw.pumpkinskull.name=Pumpkin Skull
+
+chat.mwaw.winone=Congratulations! You defeated the Halloween Witch (the original 2014 limited-edition pet contest is long over).
+chat.mwaw.wintwo=Thanks for playing the Elemental Witch Mod port.
