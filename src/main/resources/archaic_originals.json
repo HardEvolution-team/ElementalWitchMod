@@ -1,0 +1,18 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "mwaw",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "mwaw_1.7.10_0.0.3.jar",
+      "name": "mwaw_1.7.10_0.0.3.jar - Elemental Witch Mod 0.0.3 for 1.7.10 (HoopAWolf)",
+      "sha256": "6dc188889907d0753110d38434096555ea74f6dccfd166bf13fcd00e1ad74f9b",
+      "size": 360691,
+      "page": "https://minecraft-inside.ru/mods/10485-elemental-witch-mod.html",
+      "mirrors": [
+        "https://files.minecraft-inside.ru/uploads/files/2014-11/mwaw_1.7.10_0.0.3.jar"
+      ]
+    }
+  ]
+}

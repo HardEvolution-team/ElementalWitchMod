@@ -79,7 +79,7 @@ public class EntityEarthPet extends EntityTameable {
 
    @Override
    public boolean attackEntityAsMob(Entity p_70652_1_) {
-      Random rand = new Random();
+      Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
       int form = rand.nextInt(50);
       if (form <= 24) {
          ((EntityLivingBase)p_70652_1_).addPotionEffect(new PotionEffect(net.minecraft.init.MobEffects.SLOWNESS, 30, 1));

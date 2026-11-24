@@ -89,7 +89,7 @@ public class EntityFirePet extends EntityTameable {
 
    @Override
    public boolean attackEntityAsMob(Entity p_70652_1_) {
-      Random rand = new Random();
+      Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
       int form = rand.nextInt(50);
       if (form <= 15) {
          p_70652_1_.world

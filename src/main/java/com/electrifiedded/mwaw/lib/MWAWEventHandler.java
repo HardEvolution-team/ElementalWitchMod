@@ -16,7 +16,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import java.util.Random;
 
 public class MWAWEventHandler {
-    private final Random rand = new Random();
+    private final Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
 
     @SubscribeEvent
     public void onLivingUpdateEvent(LivingUpdateEvent event) {

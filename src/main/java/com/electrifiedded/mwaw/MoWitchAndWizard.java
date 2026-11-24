@@ -29,7 +29,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, dependencies = "required-after:archaiclib@[1.27.0,)")
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, dependencies = "required-after:archaiclib@[1.40.0,)")
 public class MoWitchAndWizard {
     public static final String ORIGINAL_NAME = "mwaw_1.7.10_0.0.3.jar - Elemental Witch Mod 0.0.3 for 1.7.10 (HoopAWolf)";
     public static final String ORIGINAL_URL = "https://www.planetminecraft.com/member/hoopawolf/";

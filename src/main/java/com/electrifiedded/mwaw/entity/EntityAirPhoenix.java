@@ -86,7 +86,7 @@ public class EntityAirPhoenix extends EntityTameable {
 
    @Override
    public boolean attackEntityAsMob(Entity p_70652_1_) {
-      Random rand = new Random();
+      Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
       int form = rand.nextInt(4);
       if (form == 1) {
          float f4 = MathHelper.sqrt(this.motionX * this.motionX + this.motionZ * this.motionZ);

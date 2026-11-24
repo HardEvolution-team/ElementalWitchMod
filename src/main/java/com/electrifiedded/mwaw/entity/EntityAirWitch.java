@@ -181,7 +181,7 @@ public class EntityAirWitch extends EntityMob implements IRangedAttackMob {
    }
 
    private void launchWitherSkullToCoords(int par1, double par2, double par4, double par6, boolean par8) {
-      Random rand = new Random();
+      Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
       int randomNumber = rand.nextInt(4);
       double d3 = this.func_82214_u(par1);
       double d4 = this.func_82208_v(par1);

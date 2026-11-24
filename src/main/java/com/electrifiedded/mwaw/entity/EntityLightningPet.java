@@ -83,7 +83,7 @@ public class EntityLightningPet extends EntityTameable {
 
    @Override
    public boolean attackEntityAsMob(Entity p_70652_1_) {
-      Random rand = new Random();
+      Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
       int form = rand.nextInt(50);
       if (form <= 24) {
          EntityLightningBolt entity = new EntityLightningBolt(this.world, 1.0, 1.0, 1.0, false);

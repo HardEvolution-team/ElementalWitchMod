@@ -181,7 +181,7 @@ public class EntityEarthWitch extends EntityMob implements IRangedAttackMob {
                LegacyWorld.setBlock(this.world, xx - 2, yy, zz + 1, block);
 
                for (int i = 0; i < 20; i++) {
-                  Random rand = new Random();
+                  Random rand = new com.electrifiedded.archaiclib.util.FastRandom();
                   int randomNumber = rand.nextInt(5);
                   EntityEarthMinion entity = new EntityEarthMinion(this.world);
                   if (randomNumber == 1) {
